@@ -9,9 +9,9 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqM2h4eDFsczBqdDd0MzBkY3o1YWxoeThkNzFpcXFrMGIwcnZqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qXtsvBPk9PXXEURkZA/giphy.gif" width=60px height=60px>
   </h2>
   <p align=center>
-    I am Cheng Yao, a Year 2 Data Science and Artificial Intelligence student at the Nanyang Technological University. 
+    I am Cheng Yao, a Data Science and Artificial Intelligence undergraduate at the Nanyang Technological University. 
     <br><br>
-    Diving into the deep world of Data Science, I am constantly taking online courses to enhance my knowledge and skills outside of curriculum. 
+    Diving into the deep world of Data Science, I am constantly taking online courses to enhance my knowledge and skills outside of my curriculum. 
     <br><br>
     I am excited to apply my knowledge and skills to build and develop solutions to different problems. 
   </p>
